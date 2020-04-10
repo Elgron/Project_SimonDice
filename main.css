@@ -36,35 +36,35 @@ body {
   }
 
   .celeste {
-    background: #22a6b3;
+    background: #00bcd4;
   }
 
   .celeste.light {
-    background: #7ed6df;
+    background: #b2ebf2;
   }
 
   .violeta {
-    background: #be2edd;
+    background: #363062;
   }
 
   .violeta.light {
-    background: #e056fd;
+    background: #4d4c7d;
   }
 
   .naranja {
-    background: #f0932b;
+    background: #e84a5f;
   }
 
   .naranja.light {
-    background: #ffbe76;
+    background: #ff847b;
   }
 
   .verde {
-    background: #6ab04c;
+    background: #f4e04d;
   }
 
   .verde.light {
-    background: #badc58;
+    background: #f2ed6f;
   }
 
   .btn-start {
